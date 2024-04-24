@@ -53,3 +53,12 @@ Now that the scan has started……We wait……This may take a while, it’s no
 If you are curious if anything has been detected during the scan, you can click on the “1” under Reports
 
 ![image](https://github.com/danielbangm/Scan-Metasploitable2-for-vulnerabilities/assets/22795502/d65d19eb-0f70-42b8-a16c-b257077d47fd)
+
+
+In the next section, I am going to analyze the scan
+
+
+
+<p align="center">
+<img src="https://shorturl.at/foEHX" />
+</p>
